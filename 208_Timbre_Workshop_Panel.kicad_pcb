@@ -4312,6 +4312,26 @@
       )
 
       (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp fc5cb7ed-c30a-41fe-a2cd-a76cbab87021))
+    (group "" (id 033efa32-937f-4a54-8a9b-f03cc5cc7da6)
+      (members
+        0d495d5a-71d6-4ec3-870b-02f7670db24a
+        32a5613b-0b70-4230-bd26-7af7770bb314
+        508b6bf6-fead-4774-8899-0cdd2ebc700a
+        7b8ef1fe-f186-4fc2-a007-3034bee62469
+        cba16d18-f20e-40b4-8ba9-81d4f9ee6e55
+        f6e36358-cc5d-4c81-90f4-ccaacabc4c11
+      )
+    )
+    (group "" (id 6470e4b4-05f6-4dee-ab9b-2d61aa4d0f5d)
+      (members
+        0a3c79f7-7445-4023-ac37-3a1c5e287c51
+        252d4ff7-6eb1-49ba-a0e2-e181a13d103f
+        7d491712-a5d4-4d77-ae40-ac2b064e024d
+        8b9b6568-5025-4571-875c-981329247767
+        9a3b1c2b-8529-4488-a3d6-b99423dc5df8
+        f2ae7668-168d-4867-8d7c-e7002d329c61
+      )
+    )
   )
 
   (footprint "clipboard:8ade9059-73ad-47e3-ba2e-b8e314514bfd" (layer "F.Cu")
