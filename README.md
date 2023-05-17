@@ -9,4 +9,5 @@ Eurorack adaptation of the late 208 wavefolder section.
 
 BOM / Mouser cart: 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5e38aa6b9c
+
 Sliders: https://hu.farnell.com/en-HU/alps/rs4511150k/potentiometer-slide-50k/dp/1191730
