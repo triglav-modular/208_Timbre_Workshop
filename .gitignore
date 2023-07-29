@@ -31,3 +31,9 @@ fp-info-cache
 208_Timbre_Workshop_3D.kicad_pcb
 208_Timbre_Workshop_3D.kicad_pro
 208_Timbre_Workshop_nocomponents.png
+jlcpcb/*
+Graphics/export/*
+TIMBRE_TL074.zip
+*.lck
+208_Timbre_Workshop_4136_panelized.kicad_pcb
+208_Timbre_Workshop_4136_panelized.kicad_pro
