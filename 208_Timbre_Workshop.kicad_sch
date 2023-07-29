@@ -5,9 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "Buchla 208 Timbre (ASS Edition)")
-    (date "2023-04-26")
-    (rev "1")
+    (title "208 Timbre ")
+    (date "2023-07-29")
+    (rev "2")
     (company "Triglav Modular")
     (comment 1 "1975")
     (comment 2 "Originally part of 208 S.P.S.S.")

@@ -6,8 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "208 Timbre (ASS Editon)")
-    (rev "1")
+    (title "208 Timbre")
+    (date "2023-07-29")
+    (rev "2")
     (company "Triglav Modular")
     (comment 1 "Circuit by Don Buchla, 1973")
   )
